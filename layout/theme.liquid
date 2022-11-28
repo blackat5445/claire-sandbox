@@ -1,6 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
+ {%- render 'beae_header' -%}
   <meta name="google-site-verification" content="l2PHOTzKAckXEye1gTbWg0Bg8E5dmk_gmKIvhxtxaQE" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -258,5 +259,7 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
-  </body>
+  
+ {%- render 'beae_footer' -%}
+ </body>
 </html>
