@@ -1,1 +1,175 @@
-{"current":{"colors_solid_button_labels":"#FFFFFF","colors_accent_1":"#ff3f9a","colors_accent_2":"#ff3f9a","colors_background_2":"#d1d2d4","heading_scale":110,"buttons_border_thickness":3,"buttons_radius":4,"buttons_shadow_opacity":0,"buttons_shadow_vertical_offset":0,"buttons_shadow_blur":0,"text_boxes_border_thickness":0,"text_boxes_shadow_opacity":0,"badge_position":"bottom right","social_twitter_link":"https:\/\/twitter.com\/clairedj","social_facebook_link":"https:\/\/www.facebook.com\/studioclaire","social_pinterest_link":"https:\/\/www.pinterest.ca\/clairedj\/","social_instagram_link":"https:\/\/www.instagram.com\/claire_desjardins_art\/","social_tiktok_link":"","favicon":"shopify:\/\/shop_images\/36x48_Larger-Than-Life-02.jpg","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","disabled":true,"settings":{"text":"Welcome to our store","color_scheme":"background-1","link":""}}},"block_order":["announcement-bar-0"],"settings":{}},"header":{"type":"header","settings":{"color_scheme":"background-1","logo":"shopify:\/\/shop_images\/site_header_d0ed6482-8a2c-4f80-8b42-e813bb68111d.jpg","logo_width":250,"logo_position":"top-center","menu":"main-menu","show_line_separator":true,"enable_sticky_header":true,"margin_bottom":0}},"footer":{"type":"footer","blocks":{"fba70547-0741-44c4-bc22-742f23545d86":{"type":"link_list","settings":{"heading":"- - -","menu":"footer"}}},"block_order":["fba70547-0741-44c4-bc22-742f23545d86"],"settings":{"color_scheme":"accent-1","newsletter_enable":true,"newsletter_heading":"Subscribe to Claire's newsletter","show_social":true,"enable_country_selector":false,"enable_language_selector":false,"payment_enable":false,"margin_top":0,"padding_top":32,"padding_bottom":36}},"main-password-header":{"type":"main-password-header","settings":{}},"main-password-footer":{"type":"main-password-footer","settings":{}}},"content_for_index":[],"blocks":{"940650814580334357":{"type":"shopify:\/\/apps\/compareder-product-compare\/blocks\/app-embed-block\/2ec083cc-5677-4d10-a2af-c02464aa361b","disabled":false,"settings":{}}}},"presets":{"Default":{"sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{"color_scheme":"background-1"}}},"block_order":["announcement-bar-0"],"settings":{}},"header":{"type":"header","settings":{"logo_width":90}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"link_list","settings":{}},"footer-1":{"type":"link_list","settings":{"heading":"Info"}},"footer-2":{"type":"text","settings":{"heading":"Our mission"}}},"block_order":["footer-0","footer-1","footer-2"],"settings":{"show_social":true,"enable_country_selector":false,"enable_language_selector":false,"margin_top":48}},"main-password-header":{"type":"main-password-header","settings":{}},"main-password-footer":{"type":"main-password-footer","settings":{}}}}}}
+{
+  "current": {
+    "colors_solid_button_labels": "#FFFFFF",
+    "colors_accent_1": "#ff3f9a",
+    "colors_accent_2": "#ff3f9a",
+    "colors_background_2": "#d1d2d4",
+    "heading_scale": 110,
+    "buttons_border_thickness": 3,
+    "buttons_radius": 4,
+    "buttons_shadow_opacity": 0,
+    "buttons_shadow_vertical_offset": 0,
+    "buttons_shadow_blur": 0,
+    "text_boxes_border_thickness": 0,
+    "text_boxes_shadow_opacity": 0,
+    "badge_position": "bottom right",
+    "social_twitter_link": "https:\/\/twitter.com\/clairedj",
+    "social_facebook_link": "https:\/\/www.facebook.com\/studioclaire",
+    "social_pinterest_link": "https:\/\/www.pinterest.ca\/clairedj\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/claire_desjardins_art\/",
+    "social_tiktok_link": "",
+    "favicon": "shopify:\/\/shop_images\/36x48_Larger-Than-Life-02.jpg",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Welcome to our store",
+              "color_scheme": "background-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "color_scheme": "background-1",
+          "logo_width": 250,
+          "logo_position": "top-center",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true,
+          "margin_bottom": 0
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "fba70547-0741-44c4-bc22-742f23545d86": {
+            "type": "link_list",
+            "settings": {
+              "heading": "- - -",
+              "menu": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "fba70547-0741-44c4-bc22-742f23545d86"
+        ],
+        "settings": {
+          "color_scheme": "accent-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "Subscribe to Claire's newsletter",
+          "show_social": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": false,
+          "margin_top": 0,
+          "padding_top": 32,
+          "padding_bottom": 36
+        }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "11007581849700305021": {
+        "type": "shopify:\/\/apps\/beae-flexible-page-builder\/blocks\/app-embed\/baa13179-0731-48ec-b878-b49964bcc901",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "announcement-bar-0": {
+              "type": "announcement",
+              "settings": {
+                "color_scheme": "background-1"
+              }
+            }
+          },
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo_width": 90
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "footer-1": {
+              "type": "link_list",
+              "settings": {
+                "heading": "Info"
+              }
+            },
+            "footer-2": {
+              "type": "text",
+              "settings": {
+                "heading": "Our mission"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_social": true,
+            "enable_country_selector": false,
+            "enable_language_selector": false,
+            "margin_top": 48
+          }
+        },
+        "main-password-header": {
+          "type": "main-password-header",
+          "settings": {
+          }
+        },
+        "main-password-footer": {
+          "type": "main-password-footer",
+          "settings": {
+          }
+        }
+      }
+    }
+  }
+}
